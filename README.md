@@ -18,23 +18,6 @@ A professional machine learning pipeline for the classification of **Phonocardio
 
 ---
 
-## 📂 **Project Structure**
-
-```text
-PCG/
-├── src/                   # 🧠 Core Processing Engine
-│   ├── decomposition.py   # EWT Signal Decomposition
-│   ├── features.py        # Multi-domain Feature Extraction
-│   ├── models.py          # Classifier Definitions & Evaluation
-│   ├── optimization.py    # SMO Meta-heuristic & Tuning
-│   └── utils.py           # Data I/O and Cleaning
-├── Dataset/               # 📊 Data Sources (Features & Labels)
-├── main.py                # 🛠️ Main Entry Point
-├── README.md              # 📖 Project Documentation
-└── requirements.txt       # 📦 Dependencies
-```
-
----
 
 ## 🛠️ **Installation & Usage**
 
